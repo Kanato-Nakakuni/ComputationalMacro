@@ -1,1 +1,1 @@
-# Computational-Macro-Mannheim-
+# Computational Macroeconomic at University of Mannheim (Fall 2025)

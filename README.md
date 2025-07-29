@@ -1,5 +1,14 @@
-# Computational Macroeconomics at University of Mannheim (Fall 2025)
+# Computational Macroeconomics — University of Mannheim (Fall 2025)
 
-Files:
-"Lec2_TwoPeriod.ipynb" : works with a two-period model to provide an overview of basic solution algorithms, including, grid search, EGM, and projection method.
-"Lec3_MultiPeriod.ipynb" : explains how to solve the multi-period model.
+This repository contains code and lecture materials for the *Computational Macroeconomics* course in the Master's program at the University of Mannheim (Fall 2025).
+
+## Contents
+
+- **`Lec2_TwoPeriod.ipynb`**  
+  Solves a two-period consumption-saving model to demonstrate core solution techniques in computational macroeconomics:
+  - Grid search
+  - Endogenous Grid Method (EGM)
+  - Projection method
+
+- **`Lec3_MultiPeriod.ipynb`**  
+  Introduces the multi-period model and demonstrates how to solve it using backward induction and dynamic programming principles.

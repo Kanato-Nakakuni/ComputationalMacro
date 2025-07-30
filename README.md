@@ -12,3 +12,9 @@ This repository contains code and lecture materials for the *Computational Macro
 
 - **`Lec3_MultiPeriod.ipynb`**  
   Introduces the multi-period model and demonstrates how to solve it using backward induction and dynamic programming principles.
+
+- **`Lec4_GE.ipynb`**  
+  Explains how to solve the general equilibrium (GE) setup.
+
+- **`Lec5_Calibration.ipynb`**  
+  Explains the basic idea of the calibration.

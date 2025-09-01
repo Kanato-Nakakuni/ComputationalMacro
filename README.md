@@ -30,7 +30,7 @@ This repository contains code and lecture materials for the *Computational Macro
 - **`Lec06_Counterfactual.ipynb`**  
   Serves as a coding session for solving for the stationary equilibrium and simulating reforms related to social security schemes.
 
-- **`Lec_07_Transition.ipynb`**  
+- **`Lec07_Transition.ipynb`**  
   Explains the algorithm for solving transitional dynamics, using the effects of education subsidies in a two-period model with endogenous human capital as an example.
 
 - **`Lec08_InfiniteHorizon.ipynb`**  

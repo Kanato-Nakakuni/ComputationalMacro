@@ -22,7 +22,7 @@ This repository contains code and lecture materials for the *Computational Macro
   Introduces the multi-period model and demonstrates how to solve it using backward induction.
 
 - **`Lec04_GE.ipynb`**  
-  Explains how to solve the general equilibrium (GE) setup.
+  Explains how to solve the general equilibrium (GE).
 
 - **`Lec05_Calibration.ipynb`**  
   Explains the basic idea of the calibration.

@@ -19,7 +19,7 @@ This repository contains code and lecture materials for the *Computational Macro
   - Projection method
 
 - **`Lec03_MultiPeriod.ipynb`**  
-  Introduces the multi-period model and demonstrates how to solve it using backward induction and dynamic programming principles.
+  Introduces the multi-period model and demonstrates how to solve it using backward induction.
 
 - **`Lec04_GE.ipynb`**  
   Explains how to solve the general equilibrium (GE) setup.

@@ -33,14 +33,14 @@ This repository contains code and lecture materials for the *Computational Macro
 - **`Lec07_Transition.ipynb`**  
   Explains the algorithm for solving transitional dynamics, using the effects of education subsidies in a two-period model with endogenous human capital as an example.
 
-- **`Lec08_InfiniteHorizon.ipynb`**  
-  Explains algorithms for solving the infinite-horizon household optimization problem, such as value function iteration and policy function iteration.
-
-- **`Lec09_NumericalMethod.ipynb`**  
+- **`Lec08_NumericalMethod.ipynb`**  
   Explains concepts and algorithms for major numerical problems: root finding (bisection and Newton–Raphson methods), numerical optimization (golden-section search and Newton’s method), and function approximation (interpolation).
 
-- **`Lec10_NumericalMethod_Ex.ipynb`**  
-  Serves as a coding session for implementing the numerical methods from Lecture 9 to solve a static consumption–leisure problem.
+- **`Lec09_NumericalMethod_Ex.ipynb`**  
+  Serves as a coding session for implementing the numerical methods from Lecture 9 to solve a static consumption–leisure problem.  
+
+- **`Lec10_InfiniteHorizon.ipynb`**  
+  Explains algorithms for solving the infinite-horizon household optimization problem, such as value function iteration and policy function iteration.
 
 - **`Lec11_Aiyagari.ipynb`**  
   Explains (1) the Aiyagari model and (2) Tauchen's method in discretizing the AR(1) income process.

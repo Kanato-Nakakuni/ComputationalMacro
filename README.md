@@ -2,6 +2,11 @@
 
 This repository contains code and lecture materials for the *Computational Macroeconomics* course in the Master's program at the University of Mannheim (Fall 2026).
 
+<p align="center">
+  <a href="Lec02_TwoPeriod.ipynb"><img src="figures/lec02-analytical-numerical.png" alt="Numerical and analytical saving policies" width="49%"></a>
+  <a href="Lec10_InfiniteHorizon.ipynb"><img src="figures/lec10-value-function-iteration.png" alt="Value-function convergence over iterations" width="49%"></a>
+</p>
+
 ## Contents
 
 - **`Lec01_Introduction.pdf`**  

@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="Lec02_TwoPeriod.ipynb"><img src="figures/lec02-analytical-numerical.svg" alt="Numerical and analytical saving policies" width="49%"></a>
-  <a href="Lec10_InfiniteHorizon.ipynb"><img src="figures/lec10-value-function-iteration.svg" alt="Value-function convergence over iterations" width="49%"></a>
+  <a href="Lecture%20notes/Lec02_TwoPeriod.ipynb"><img src="Lecture%20notes/figures/lec02-analytical-numerical.svg" alt="Numerical and analytical saving policies" width="49%"></a>
+  <a href="Lecture%20notes/Lec10_InfiniteHorizon.ipynb"><img src="Lecture%20notes/figures/lec10-value-function-iteration.svg" alt="Value-function convergence over iterations" width="49%"></a>
 </p>
 
 # Computational Macroeconomics — University of Mannheim

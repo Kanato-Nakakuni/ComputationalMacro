@@ -21,7 +21,7 @@ See the [syllabus](Syllabus.pdf) for course information.
 
 - **[Lec02_TwoPeriod.ipynb](Lecture%20notes/Lec02_TwoPeriod.ipynb)**
 
-  Solves a two-period consumption-saving model to demonstrate core solution techniques in computational macroeconomics:
+  Solves a two-period consumption-saving model to demonstrate core solution techniques:
 
   - Grid search
   - Endogenous Grid Method (EGM)

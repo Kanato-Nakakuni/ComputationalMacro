@@ -7,7 +7,7 @@
 
 This repository contains code and lecture materials for the *Computational Macroeconomics* course in the Master's program at the University of Mannheim (Fall 2026).
 
-See the [syllabus](Syllabus.pdf) for course information.
+<!-- See the [syllabus](Syllabus.pdf) for course information. -->
 
 ## Contents
 

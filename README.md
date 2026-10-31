@@ -1,52 +1,66 @@
 <p align="center">
   <a href="Lecture%20notes/Lec02_TwoPeriod.ipynb"><img src="Lecture%20notes/figures/lec02-analytical-numerical.svg" alt="Numerical and analytical saving policies" width="49%"></a>
-  <a href="Lecture%20notes/Lec10_InfiniteHorizon.ipynb"><img src="Lecture%20notes/figures/lec10-value-function-iteration.svg" alt="Value-function convergence over iterations" width="49%"></a>
+  <a href="Lecture%20notes/Lec07_InfiniteHorizon.ipynb"><img src="Lecture%20notes/figures/lec10-value-function-iteration.svg" alt="Value-function convergence over iterations" width="49%"></a>
 </p>
 
 # Computational Macroeconomics — University of Mannheim
 
 This repository contains code and lecture materials for the *Computational Macroeconomics* course in the Master's program at the University of Mannheim (Fall 2026).
 
+See the [syllabus](Syllabus.pdf) for course information.
+
 ## Contents
 
-- **`Lec01_Introduction.pdf`**  
-  Course introduction
+- **[Lec01_Introduction.pdf](Lecture%20notes/Lec01_Introduction.pdf)**
 
-- **`Lec01_JuliaPrimer.ipynb`**  
-  Provides a brief review of essential programming concepts in Julia that are extensively used in solving macroeconomic models.
+  Course introduction.
 
-- **`Lec02_TwoPeriod.ipynb`**  
+- **[Lec01_JuliaPrimer.ipynb](Lecture%20notes/Lec01_JuliaPrimer.ipynb)**
+
+  Reviews essential Julia programming concepts used to solve macroeconomic models, including loops, functions, conditionals, plotting, and discretization.
+
+- **[Lec02_TwoPeriod.ipynb](Lecture%20notes/Lec02_TwoPeriod.ipynb)**
+
   Solves a two-period consumption-saving model to demonstrate core solution techniques in computational macroeconomics:
+
   - Grid search
   - Endogenous Grid Method (EGM)
   - Projection method
 
-- **`Lec03_MultiPeriod.ipynb`**  
-  Introduces the multi-period model and demonstrates how to solve it using backward induction.
+- **[Lec03_MultiPeriod.ipynb](Lecture%20notes/Lec03_MultiPeriod.ipynb)**
 
-- **`Lec04_GE.ipynb`**  
-  Explains how to solve the general equilibrium (GE).
+  Introduces a multi-period lifecycle model and solves it using backward induction. Exercises explore how function-based code and efficient grid search improve performance.
 
-- **`Lec05_Calibration.ipynb`**  
-  Explains the basic idea of the calibration.
+- **[Lec04_GE.ipynb](Lecture%20notes/Lec04_GE.ipynb)**
 
-- **`Lec06_Counterfactual.ipynb`**  
-  Serves as a coding session for solving for the stationary equilibrium and simulating reforms related to social security schemes.
+  Computes stationary general equilibrium in a lifecycle model with public pensions. Counterfactual experiments examine demographic changes and pension reforms, including welfare analysis using consumption-equivalent variation.
 
-- **`Lec07_Transition.ipynb`**  
-  Explains the algorithm for solving transitional dynamics, using the effects of education subsidies in a two-period model with endogenous human capital as an example.
+- **[Lec05_Calibration.ipynb](Lecture%20notes/Lec05_Calibration.ipynb)**
 
-- **`Lec08_NumericalMethod.ipynb`**  
-  Explains concepts and algorithms for major numerical problems: root finding (bisection and Newton–Raphson methods), numerical optimization (golden-section search and Newton’s method), and function approximation (interpolation).
+  Introduces calibration, distinguishing externally set parameters from internally calibrated parameters. Covers target selection, loss functions, identification, and the sensitivity of counterfactual results to parameter choices.
 
-- **`Lec09_NumericalMethod_Ex.ipynb`**  
-  Serves as a coding session for implementing the numerical methods from Lecture 9 to solve a static consumption–leisure problem.  
+- **[Lec06_Transition.ipynb](Lecture%20notes/Lec06_Transition.ipynb)**
 
-- **`Lec10_InfiniteHorizon.ipynb`**  
-  Explains algorithms for solving the infinite-horizon household optimization problem, such as value function iteration and policy function iteration.
+  Explains how to solve transitional dynamics following an education subsidy reform in a two-period model with endogenous human capital. Discusses aggregate transition paths, cohort welfare, and extensions to multi-period models.
 
-- **`Lec11_Aiyagari.ipynb`**  
-  Explains (1) the Aiyagari model and (2) Tauchen's method in discretizing the AR(1) income process.
+- **[Lec07_InfiniteHorizon.ipynb](Lecture%20notes/Lec07_InfiniteHorizon.ipynb)**
 
-- **`Lec12_Aiyagari_Ex.ipynb`**  
-  Serves as a coding session for solving the Aiyagari model with (1) endogenous labor supply and (2) taxation and income redistribution by the government.
+  Formulates the infinite-horizon consumption-saving problem recursively and implements value function iteration (VFI) and policy function iteration (PFI).
+
+- **[Lec08_Aiyagari.ipynb](Lecture%20notes/Lec08_Aiyagari.ipynb)**
+
+  Introduces the Aiyagari model with uninsurable income risk and borrowing constraints. Covers stationary equilibrium, Tauchen's method for discretizing an AR(1) income process, and invariant distributions. Exercises examine wealth taxation, redistribution, and welfare.
+
+- **[Lec09_NumericalMethod.pdf](Lecture%20notes/Lec09_NumericalMethod.pdf)**
+
+  Lecture slides on numerical methods.
+
+- **[Lec09_NumericalMethod_Ex.ipynb](Lecture%20notes/Lec09_NumericalMethod_Ex.ipynb)**
+
+  Applies root finding (bisection and Newton–Raphson), optimization (golden-section search and Newton's method), and grid search to a static consumption–leisure problem.
+
+## Assignment and exam materials
+
+- [Assignment](Lecture%20notes/Assignment%20and%20exam/Assignment.ipynb)
+- [Exam preparation](Lecture%20notes/Assignment%20and%20exam/Exam_prep.pdf)
+- [Sample exam](Lecture%20notes/Assignment%20and%20exam/Sample_exam.pdf)

@@ -45,7 +45,7 @@ This repository contains code and lecture materials for the *Computational Macro
 
 - **[Lec07_InfiniteHorizon.ipynb](Lecture%20notes/Lec07_InfiniteHorizon.ipynb)**
 
-  Formulates the infinite-horizon consumption-saving problem recursively and implements value function iteration (VFI) and policy function iteration (PFI).
+  Formulates the infinite-horizon consumption-saving problem recursively and implements value function iteration (VFI) and policy function iteration (PFI). The application combines VFI with backward induction to solve a multi-period model with intergenerational transfers.
 
 - **[Lec08_Aiyagari.ipynb](Lecture%20notes/Lec08_Aiyagari.ipynb)**
 
